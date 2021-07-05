@@ -1,3 +1,6 @@
 git is very good software
 git is yes
 git is difficult
+Git is a distributed version control system.
+Git is free software.
+lzy ldy
