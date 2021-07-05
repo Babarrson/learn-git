@@ -1,5 +1,3 @@
 git is very good software
 git is yes
 git is difficult
-
-
